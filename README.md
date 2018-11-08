@@ -8,4 +8,4 @@ How to use?
 The input or the thing you want to search goes inside the single quotes 
 
 Example:- 
-# python Python_google_searcher.py 'google' 
+python Python_google_searcher.py 'google' 
